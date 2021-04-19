@@ -2,7 +2,7 @@
 {
    stage('continuous download')
    {
-   git 'https://github.com/intelliqittrainings/maven.git'
+   https://github.com/venkateswarlucmp/maven.git
    }
    stage('continuous build')
    {
